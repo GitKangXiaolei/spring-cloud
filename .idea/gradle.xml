@@ -70,6 +70,17 @@
       </GradleProjectSettings>
       <GradleProjectSettings>
         <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/rabbitmq" />
+        <option name="gradleHome" value="/home/kxl/Downloads/gradle-4.10.2-bin/gradle-4.10.2" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/rabbitmq" />
+          </set>
+        </option>
+        <option name="useAutoImport" value="true" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/ribbon-consumer" />
         <option name="gradleHome" value="/home/kxl/Downloads/gradle-4.10.2-bin/gradle-4.10.2" />
         <option name="modules">

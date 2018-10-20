@@ -20,6 +20,7 @@
       <module fileurl="file://$PROJECT_DIR$/hystrix-dashboard/hystrix-dashboard.iml" filepath="$PROJECT_DIR$/hystrix-dashboard/hystrix-dashboard.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/hystrix-dashboard_main.iml" filepath="$PROJECT_DIR$/.idea/modules/hystrix-dashboard_main.iml" group="hystrix-dashboard" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/hystrix-dashboard_test.iml" filepath="$PROJECT_DIR$/.idea/modules/hystrix-dashboard_test.iml" group="hystrix-dashboard" />
+      <module fileurl="file://$PROJECT_DIR$/rabbitmq/rabbitmq.iml" filepath="$PROJECT_DIR$/rabbitmq/rabbitmq.iml" />
       <module fileurl="file://$PROJECT_DIR$/ribbon-consumer/ribbon-consumer.iml" filepath="$PROJECT_DIR$/ribbon-consumer/ribbon-consumer.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/ribbon-consumer_main.iml" filepath="$PROJECT_DIR$/.idea/modules/ribbon-consumer_main.iml" group="ribbon-consumer" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/ribbon-consumer_test.iml" filepath="$PROJECT_DIR$/.idea/modules/ribbon-consumer_test.iml" group="ribbon-consumer" />
